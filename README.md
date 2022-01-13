@@ -88,8 +88,6 @@ app.get("/*", (req, res) => {
 })
 ```
 
-Follow along with the [gitbook notes](https://gawdiseattle.gitbook.io/wdi/05-node-express/00readme-1/02routes#2nd-express-app-fun-with-routes) on express routing for some tips and tricks.
-
 ---
 
 ## Licensing
